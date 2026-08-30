@@ -8,8 +8,8 @@ No manual searching. No spreadsheets. Just a team of AI agents doing the
 legwork and reasoning through it themselves.
 
 <p align="center">
-  <img src="asset/output 1.jpg" width="48%">
-  <img src="asset/output 2.jpg" width="48%">
+  <img src="asset/output 1.png" width="48%">
+  <img src="asset/output 2.png" width="48%">
 </p>
 ---
 

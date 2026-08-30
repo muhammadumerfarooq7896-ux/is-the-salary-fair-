@@ -7,6 +7,10 @@ shoulder the moment it finds one that looks underpaid.
 No manual searching. No spreadsheets. Just a team of AI agents doing the
 legwork and reasoning through it themselves.
 
+<p align="center">
+  <img src="asset/output 1.jpg" width="48%">
+  <img src="asset/output 2.jpg" width="48%">
+</p>
 ---
 
 ## What's actually happening here

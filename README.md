@@ -84,7 +84,7 @@ of what's already been surfaced, and powers the live dashboard.
 **`app.py`** — a Gradio interface where you can watch every agent announce
 what it's doing in real time, browse everything flagged so far, and see a
 3D map of how job postings cluster in embedding space.
-
+![Live Dashboard](asset/dashboard.jpg)
 ---
 
 ## Project structure

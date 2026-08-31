@@ -1,0 +1,33 @@
+Copyright (c) 2026 Muhammad Umer Farooq
+
+All Rights Reserved.
+
+This repository and its contents (including but not limited to source code,
+documentation, model configurations, prompts, and architecture) are made
+publicly viewable for portfolio, educational, and evaluation purposes only.
+
+Permission is NOT granted to:
+  - Copy, reproduce, or redistribute this code or any substantial portion
+    of it, in source or modified form
+  - Use this code, in whole or in part, in any other project, whether
+    personal, academic, or commercial
+  - Create derivative works based on this code
+  - Use this code for training, fine-tuning, or evaluating any machine
+    learning model
+
+Permission IS granted to:
+  - View and read this repository for the purpose of evaluating the
+    author's work (e.g. for recruitment, academic review, or general
+    interest)
+  - Reference this project by name and link when discussing or citing it,
+    provided proper attribution is given to the author
+
+Any use beyond viewing requires prior written permission from the author.
+To request permission, please contact the author directly.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN
+ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
